@@ -57,7 +57,7 @@
 
  ### 2019
 
- - Incremental few-shot learning with attention attractor networks(**NeurIPS19**) [[paper](https://arxiv.org/abs/1810.07218)] 
+ - Incremental few-shot learning with attention attractor networks(**NeurIPS19**) [[paper](https://arxiv.org/abs/1810.07218)][[code](https://github.com/renmengye/inc-few-shot-attractor-public)]
 
 ### 2018
 
