@@ -19,7 +19,7 @@
 
   ### 2021
 
-- Learning adaptive classifiers synthesis for generalized few-shot learning(**IJCV21**) [[paper](https://arxiv.org/pdf/1906.02944)] [[Code](https://github.com/Sha-Lab/aCASTLE)] 
+- Learning adaptive classifiers synthesis for generalized few-shot learning(**IJCV21**) [[paper](https://arxiv.org/pdf/1906.02944)] [[code](https://github.com/Sha-Lab/aCASTLE)] 
 
 - MgSvF: Multi-Grained Slow vs. Fast Framework for Few-Shot Class-Incremental Learning(**TPAMI21**) [[paper](https://arxiv.org/abs/2006.15524)] 
 
