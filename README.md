@@ -3,7 +3,7 @@
 
 ## Papers
 
-  ### 2022 
+ ### 2022 
 
 - Few-Shot Class-Incremental Learning by Sampling Multi-Phase Tasks(**TPAMI22**)[[paper](https://arxiv.org/abs/2203.17030)][[code](https://github.com/zhoudw-zdw/TPAMI-Limit)] 
 
@@ -17,7 +17,7 @@
 
 - Few-Shot Class-Incremental Learning via Entropy-Regularized Data-Free Replay (**ECCV22**) [[paper](https://arxiv.org/abs/2207.11213?context=cs)][[code](https://github.com/liuh127/FSCIL-via-Entropy-regularized-DF-Replay)] 
 
-  ### 2021
+ ### 2021
 
 - Learning adaptive classifiers synthesis for generalized few-shot learning(**IJCV21**) [[paper](https://arxiv.org/pdf/1906.02944)] [[code](https://github.com/Sha-Lab/aCASTLE)] 
 
