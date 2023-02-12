@@ -51,7 +51,7 @@
 
 - Incremental Few-Shot Object Detection(**CVPR20**) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Perez-Rua_Incremental_Few-Shot_Object_Detection_CVPR_2020_paper.html)] 
 
-- XtarNet: Learning to Extract Task-Adaptive Representation for Incremental Few-Shot Learning(**ICML20**) [[paper](http://proceedings.mlr.press/v119/yoon20b.html)] 
+- XtarNet: Learning to Extract Task-Adaptive Representation for Incremental Few-Shot Learning(**ICML20**) [[paper](http://proceedings.mlr.press/v119/yoon20b.html)][[code](https://github.com/EdwinKim3069/XtarNet)]
 
 
 
