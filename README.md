@@ -5,6 +5,8 @@
 
  ### 2022 
 
+- Few-Shot Class-Incremental Learning from an Open-Set Perspective(**ECCV22**)[[paper](https://arxiv.org/abs/2208.00147)][[code](https://github.com/canpeng123/fscil_alice)]
+
 - Few-Shot Class-Incremental Learning by Sampling Multi-Phase Tasks(**TPAMI22**)[[paper](https://arxiv.org/abs/2203.17030)][[code](https://github.com/zhoudw-zdw/TPAMI-Limit)] 
 
 - Forward Compatible Few-Shot Class-Incremental Learning(**CVPR22**) [[paper](https://arxiv.org/abs/2203.06953)] [[code](https://github.com/zhoudw-zdw/CVPR22-Fact)]
