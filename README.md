@@ -3,6 +3,10 @@
 
 ## Papers
 
+ ### 2023
+
+- Neural Collapse Inspired Feature-Classifier Alignment for Few-Shot Class Incremental Learning(**ICLR23**)[[paper](https://arxiv.org/abs/2302.03004)][[code](https://github.com/NeuralCollapseApplications/FSCIL)]
+
  ### 2022 
 
 - Few-Shot Class-Incremental Learning from an Open-Set Perspective(**ECCV22**)[[paper](https://arxiv.org/abs/2208.00147)][[code](https://github.com/canpeng123/fscil_alice)]
