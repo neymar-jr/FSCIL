@@ -20,7 +20,7 @@
 
 - Neural Collapse Inspired Feature-Classifier Alignment for Few-Shot Class Incremental Learning (**ICLR23**) [[paper](https://arxiv.org/abs/2302.03004)][[code](https://github.com/NeuralCollapseApplications/FSCIL)]
 
-- SSFE-Net: Self-Supervised Feature Enhancement for Ultra-Fine-Grained Few-Shot Class Incremental Learning (**WACV23**) [[paper](https://openaccess.thecvf.com/content/WACV2023/html/Pan_SSFE-Net_Self-Supervised_Feature_Enhancement_for_Ultra-Fine-Grained_Few-Shot_Class_Incremental_Learning_WACV_2023_paper.pdf)]
+- SSFE-Net: Self-Supervised Feature Enhancement for Ultra-Fine-Grained Few-Shot Class Incremental Learning (**WACV23**) [[paper](https://openaccess.thecvf.com/content/WACV2023/papers/Pan_SSFE-Net_Self-Supervised_Feature_Enhancement_for_Ultra-Fine-Grained_Few-Shot_Class_Incremental_Learning_WACV_2023_paper.pdf)]
 
  ### 2022 
 
@@ -42,7 +42,7 @@
 
 - Variable Few Shot Class Incremental and Open World Learning (**CVPRW22**) [[paper](https://openaccess.thecvf.com/content/CVPR2022W/CLVision/html/Ahmad_Variable_Few_Shot_Class_Incremental_and_Open_World_Learning_CVPRW_2022_paper.pdf)] [[code](https://github.com/TouqeerAhmad/VFSOWL)]
 
-- Few-Shot Incremental Learning for Label-to-Image Translation (**CVPR22**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_Few-Shot_Incremental_Learning_for_Label-to-Image_Translation_CVPR_2022_paper.pdf)]
+- Few-Shot Incremental Learning for Label-to-Image Translation (**CVPR22**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Few-Shot_Incremental_Learning_for_Label-to-Image_Translation_CVPR_2022_paper.pdf)]
 
 - Forward Compatible Few-Shot Class-Incremental Learning (**CVPR22**) [[paper](https://arxiv.org/abs/2203.06953)] [[code](https://github.com/zhoudw-zdw/CVPR22-Fact)]
 
@@ -60,7 +60,7 @@
 
 - Generalized and Incremental Few-Shot Learning by Explicit Learning and Calibration without Forgetting (**ICCV21**) [[paper](https://arxiv.org/abs/2108.08165)][[code](https://github.com/annusha/LCwoF)]
 
-- Synthesized Feature Based Few-Shot Class-Incremental Learning on a Mixture of Subspaces (**ICCV21**) [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Cheraghian_Synthesized_Feature_Based_Few-Shot_Class-Incremental_Learning_on_a_Mixture_of_ICCV_2021_paper.html)][[code](https://github.com/ali-chr/Synthesized-Feature-based-Few-Shot-Class-Incremental-Learningon-a-Mixture-of-Subspaces)]
+- Synthesized Feature Based Few-Shot Class-Incremental Learning on a Mixture of Subspaces (**ICCV21**) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Cheraghian_Synthesized_Feature_Based_Few-Shot_Class-Incremental_Learning_on_a_Mixture_of_ICCV_2021_paper.pdf)][[code](https://github.com/ali-chr/Synthesized-Feature-based-Few-Shot-Class-Incremental-Learningon-a-Mixture-of-Subspaces)]
 
 - GP-Tree: A Gaussian Process Classifier for Few-Shot Incremental Learning (**ICML21**) [[paper](http://proceedings.mlr.press/v139/achituve21a/achituve21a.pdf)][[code](https://github.com/IdanAchituve/GP-Tree)]
 
