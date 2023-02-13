@@ -25,6 +25,8 @@
 
 - Coarse-To-Fine Incremental Few-Shot Learning (**ECCV22**) [[paper](https://arxiv.org/abs/2111.14806)][[code](https://github.com/HAIV-Lab/Knowe)]
 
+- Few-Shot Class-Incremental Learning for 3D Point Cloud Objects (**ECCV22**) [[paper](https://arxiv.org/abs/2205.15225)][[code](https://github.com/townim-faisal/fscil-3d)]
+
 - Few-Shot Class-Incremental Learning by Sampling Multi-Phase Tasks (**TPAMI22**) [[paper](https://arxiv.org/abs/2203.17030)][[code](https://github.com/zhoudw-zdw/TPAMI-Limit)] 
 
 - Few-shot class incremental learning leveraging self-supervised features (**CVPRW22**) [[paper](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/papers/Ahmad_Few-Shot_Class_Incremental_Learning_Leveraging_Self-Supervised_Features_CVPRW_2022_paper.pdf)] [[code](https://github.com/TouqeerAhmad/FeSSSS)]
