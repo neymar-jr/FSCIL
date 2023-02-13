@@ -35,9 +35,9 @@
 
 - Few-shot class incremental learning leveraging self-supervised features (**CVPRW22**) [[paper](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/papers/Ahmad_Few-Shot_Class_Incremental_Learning_Leveraging_Self-Supervised_Features_CVPRW_2022_paper.pdf)] [[code](https://github.com/TouqeerAhmad/FeSSSS)]
 
-- Variable Few Shot Class Incremental and Open World Learning (**CVPRW22**) [[paper](https://openaccess.thecvf.com/content/CVPR2022W/CLVision/html/Ahmad_Variable_Few_Shot_Class_Incremental_and_Open_World_Learning_CVPRW_2022_paper.pdf)] [[code] (https://github.com/TouqeerAhmad/VFSOWL)]
+- Variable Few Shot Class Incremental and Open World Learning (**CVPRW22**) [[paper](https://openaccess.thecvf.com/content/CVPR2022W/CLVision/html/Ahmad_Variable_Few_Shot_Class_Incremental_and_Open_World_Learning_CVPRW_2022_paper.pdf)] [[code](https://github.com/TouqeerAhmad/VFSOWL)]
 
-- Few-Shot Incremental Learning for Label-to-Image Translation (**CVPR22**) [[paper](https://arxiv.org/abs/2203.06953)](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_Few-Shot_Incremental_Learning_for_Label-to-Image_Translation_CVPR_2022_paper.pdf)]
+- Few-Shot Incremental Learning for Label-to-Image Translation (**CVPR22**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_Few-Shot_Incremental_Learning_for_Label-to-Image_Translation_CVPR_2022_paper.pdf)]
 
 - Forward Compatible Few-Shot Class-Incremental Learning (**CVPR22**) [[paper](https://arxiv.org/abs/2203.06953)] [[code](https://github.com/zhoudw-zdw/CVPR22-Fact)]
 
