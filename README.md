@@ -33,7 +33,7 @@
 
 - Few-Shot Class-Incremental Learning by Sampling Multi-Phase Tasks (**TPAMI22**) [[paper](https://arxiv.org/abs/2203.17030)][[code](https://github.com/zhoudw-zdw/TPAMI-Limit)]
 
-- Few-shot class incremental learning leveraging self-supervised features (**CVPRW22**) [[paper](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/papers/Ahmad_Few-Shot_Class_Incremental_Learning_Leveraging_Self-Supervised_Features_CVPRW_2022_paper.pdf)] [[code](https://github.com/TouqeerAhmad/FeSSSS)]
+- Few-Shot Class-Incremental Learning Leveraging Self-Supervised Features (**CVPRW22**) [[paper](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/papers/Ahmad_Few-Shot_Class_Incremental_Learning_Leveraging_Self-Supervised_Features_CVPRW_2022_paper.pdf)] [[code](https://github.com/TouqeerAhmad/FeSSSS)]
 
 - Variable Few Shot Class Incremental and Open World Learning (**CVPRW22**) [[paper](https://openaccess.thecvf.com/content/CVPR2022W/CLVision/html/Ahmad_Variable_Few_Shot_Class_Incremental_and_Open_World_Learning_CVPRW_2022_paper.pdf)] [[code](https://github.com/TouqeerAhmad/VFSOWL)]
 
