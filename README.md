@@ -1,5 +1,10 @@
 # Awesome Few-Shot Class-Incremental Learning
 
+## Surveys
+
+ ### 2023
+
+- Towards Label-Efficient Incremental Learning: A Survey [[paper](https://arxiv.org/abs/2302.00353)]
 
 ## Papers
 
