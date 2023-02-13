@@ -5,13 +5,15 @@
 
  ### 2023
  
-- Memorizing Complementation Network for Few-Shot Class-Incremental Learning(**TIP23**)[[paper](https://arxiv.org/abs/2208.05610)]
+- Memorizing Complementation Network for Few-Shot Class-Incremental Learning (**TIP23**) [[paper](https://arxiv.org/abs/2208.05610)]
 
-- Warping the Space: Weight Space Rotation for Class-Incremental Few-Shot Learning(**ICLR23**)[[paper](https://openreview.net/pdf?id=kPLzOfPfA2l)]
+- Warping the Space: Weight Space Rotation for Class-Incremental Few-Shot Learning (**ICLR23**) [[paper](https://openreview.net/pdf?id=kPLzOfPfA2l)]
 
-- On the Soft-Subnetwork for Few-shot Class Incremental Learning(**ICLR23**)[[paper](https://arxiv.org/abs/2209.07529)]
+- On the Soft-Subnetwork for Few-shot Class Incremental Learning (**ICLR23**) [[paper](https://arxiv.org/abs/2209.07529)]
 
-- Neural Collapse Inspired Feature-Classifier Alignment for Few-Shot Class Incremental Learning(**ICLR23**)[[paper](https://arxiv.org/abs/2302.03004)][[code](https://github.com/NeuralCollapseApplications/FSCIL)]
+- Neural Collapse Inspired Feature-Classifier Alignment for Few-Shot Class Incremental Learning (**ICLR23**) [[paper](https://arxiv.org/abs/2302.03004)][[code](https://github.com/NeuralCollapseApplications/FSCIL)]
+
+- SSFE-Net: Self-Supervised Feature Enhancement for Ultra-Fine-Grained Few-Shot Class Incremental Learning (**WACV23**) [[paper](https://openaccess.thecvf.com/content/WACV2023/html/Pan_SSFE-Net_Self-Supervised_Feature_Enhancement_for_Ultra-Fine-Grained_Few-Shot_Class_Incremental_Learning_WACV_2023_paper.pdf)]
 
  ### 2022 
 
