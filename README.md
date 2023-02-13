@@ -17,6 +17,8 @@
 
 - Margin-Based Few-Shot Class-Incremental Learning with Class-Level Overfitting Mitigation (**NeurIPS22**) [[paper](https://arxiv.org/abs/2210.04524)][[code](https://github.com/zoilsen/clom)]
 
+- Few-Shot Class-Incremental Learning via Entropy-Regularized Data-Free Replay (**ECCV22**) [[paper](https://arxiv.org/abs/2207.11213?context=cs)][[code](https://github.com/liuh127/FSCIL-via-Entropy-regularized-DF-Replay)] 
+
 - S3C: Self-Supervised Stochastic Classifiers for Few-Shot Class-Incremental Learning (**ECCV22**) [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850427.pdf)]
 
 - Few-Shot Class-Incremental Learning from an Open-Set Perspective (**ECCV22**) [[paper](https://arxiv.org/abs/2208.00147)][[code](https://github.com/canpeng123/fscil_alice)]
@@ -38,8 +40,6 @@
 - Constrained Few-shot Class-incremental Learning (**CVPR22**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Hersche_Constrained_Few-Shot_Class-Incremental_Learning_CVPR_2022_paper.pdf)][[code](https://github.com/IBM/constrained-FSCIL)]
 
 - Subspace Regularizers for Few-Shot Class Incremental Learning (**ICLR22**) [[paper](https://openreview.net/forum?id=boJy41J-tnQ)][[code](https://github.com/feyzaakyurek/subspace-reg)] 
-
-- Few-Shot Class-Incremental Learning via Entropy-Regularized Data-Free Replay (**ECCV22**) [[paper](https://arxiv.org/abs/2207.11213?context=cs)][[code](https://github.com/liuh127/FSCIL-via-Entropy-regularized-DF-Replay)] 
 
  ### 2021
 
@@ -71,11 +71,11 @@
 
 - Few-Shot Class-Incremental Learning (**CVPR20**) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Tao_Few-Shot_Class-Incremental_Learning_CVPR_2020_paper.html)][[code](https://github.com/xyutao/fscil)]
 
-- Incremental Few-Shot Object Detection(**CVPR20**) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Perez-Rua_Incremental_Few-Shot_Object_Detection_CVPR_2020_paper.html)] 
+- Incremental Few-Shot Object Detection (**CVPR20**) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Perez-Rua_Incremental_Few-Shot_Object_Detection_CVPR_2020_paper.html)] 
 
-- XtarNet: Learning to Extract Task-Adaptive Representation for Incremental Few-Shot Learning(**ICML20**) [[paper](http://proceedings.mlr.press/v119/yoon20b.html)][[code](https://github.com/EdwinKim3069/XtarNet)]
+- XtarNet: Learning to Extract Task-Adaptive Representation for Incremental Few-Shot Learning (**ICML20**) [[paper](http://proceedings.mlr.press/v119/yoon20b.html)][[code](https://github.com/EdwinKim3069/XtarNet)]
 
-
+- Incremental Meta-Learning via Indirect Discriminant Alignment (**ECCV20**) [[paper](https://arxiv.org/abs/2002.04162)]
 
  ### 2019
 
