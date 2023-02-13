@@ -9,23 +9,31 @@
 
 - Warping the Space: Weight Space Rotation for Class-Incremental Few-Shot Learning(**ICLR23**)[[paper](https://openreview.net/pdf?id=kPLzOfPfA2l)]
 
+- On the Soft-Subnetwork for Few-shot Class Incremental Learning(**ICLR23**)[[paper](https://arxiv.org/abs/2209.07529)]
+
 - Neural Collapse Inspired Feature-Classifier Alignment for Few-Shot Class Incremental Learning(**ICLR23**)[[paper](https://arxiv.org/abs/2302.03004)][[code](https://github.com/NeuralCollapseApplications/FSCIL)]
 
  ### 2022 
 
-- Few-Shot Class-Incremental Learning from an Open-Set Perspective(**ECCV22**)[[paper](https://arxiv.org/abs/2208.00147)][[code](https://github.com/canpeng123/fscil_alice)]
+- Margin-Based Few-Shot Class-Incremental Learning with Class-Level Overfitting Mitigation (**NeurIPS22**) [[paper](https://arxiv.org/abs/2210.04524)][[code](https://github.com/zoilsen/clom)]
 
-- Few-Shot Class-Incremental Learning by Sampling Multi-Phase Tasks(**TPAMI22**)[[paper](https://arxiv.org/abs/2203.17030)][[code](https://github.com/zhoudw-zdw/TPAMI-Limit)] 
+- S3C: Self-Supervised Stochastic Classifiers for Few-Shot Class-Incremental Learning (**ECCV22**) [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850427.pdf)]
 
-- Few-shot class incremental learning leveraging self-supervised features(**CVPRW22**) [[paper](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/papers/Ahmad_Few-Shot_Class_Incremental_Learning_Leveraging_Self-Supervised_Features_CVPRW_2022_paper.pdf)] [[code](https://github.com/TouqeerAhmad/FeSSSS)]
+- Few-Shot Class-Incremental Learning from an Open-Set Perspective (**ECCV22**) [[paper](https://arxiv.org/abs/2208.00147)][[code](https://github.com/canpeng123/fscil_alice)]
 
-- Variable Few Shot Class Incremental and Open World Learning(**CVPRW22**) [[paper](https://openaccess.thecvf.com/content/CVPR2022W/CLVision/html/Ahmad_Variable_Few_Shot_Class_Incremental_and_Open_World_Learning_CVPRW_2022_paper.pdf)] [[code] (https://github.com/TouqeerAhmad/VFSOWL)]
+- Coarse-To-Fine Incremental Few-Shot Learning (**ECCV22**) [[paper](https://arxiv.org/abs/2111.14806)][[code](https://github.com/HAIV-Lab/Knowe)]
 
-- Few-Shot Incremental Learning for Label-to-Image Translation(**CVPR22**) [[paper]([https://arxiv.org/abs/2203.06953](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_Few-Shot_Incremental_Learning_for_Label-to-Image_Translation_CVPR_2022_paper.pdf)]
+- Few-Shot Class-Incremental Learning by Sampling Multi-Phase Tasks (**TPAMI22**) [[paper](https://arxiv.org/abs/2203.17030)][[code](https://github.com/zhoudw-zdw/TPAMI-Limit)] 
 
-- Forward Compatible Few-Shot Class-Incremental Learning(**CVPR22**) [[paper](https://arxiv.org/abs/2203.06953)] [[code](https://github.com/zhoudw-zdw/CVPR22-Fact)]
+- Few-shot class incremental learning leveraging self-supervised features (**CVPRW22**) [[paper](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/papers/Ahmad_Few-Shot_Class_Incremental_Learning_Leveraging_Self-Supervised_Features_CVPRW_2022_paper.pdf)] [[code](https://github.com/TouqeerAhmad/FeSSSS)]
 
-- MetaFSCIL: A Meta-Learning Approach for Few-Shot Class Incremental Learning (**CVPR22**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Chi_MetaFSCIL_A_Meta-Learning_Approach_for_Few-Shot_Class_Incremental_Learning_CVPR_2022_paper.pdf)][[code](https://github.com/kyoyachuan/metafscil)] 
+- Variable Few Shot Class Incremental and Open World Learning (**CVPRW22**) [[paper](https://openaccess.thecvf.com/content/CVPR2022W/CLVision/html/Ahmad_Variable_Few_Shot_Class_Incremental_and_Open_World_Learning_CVPRW_2022_paper.pdf)] [[code] (https://github.com/TouqeerAhmad/VFSOWL)]
+
+- Few-Shot Incremental Learning for Label-to-Image Translation (**CVPR22**) [[paper]([https://arxiv.org/abs/2203.06953](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_Few-Shot_Incremental_Learning_for_Label-to-Image_Translation_CVPR_2022_paper.pdf)]
+
+- Forward Compatible Few-Shot Class-Incremental Learning (**CVPR22**) [[paper](https://arxiv.org/abs/2203.06953)] [[code](https://github.com/zhoudw-zdw/CVPR22-Fact)]
+
+- MetaFSCIL: A Meta-Learning Approach for Few-Shot Class Incremental Learning(**CVPR22**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Chi_MetaFSCIL_A_Meta-Learning_Approach_for_Few-Shot_Class_Incremental_Learning_CVPR_2022_paper.pdf)][[code](https://github.com/kyoyachuan/metafscil)] 
 
 - Constrained Few-shot Class-incremental Learning (**CVPR22**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Hersche_Constrained_Few-Shot_Class-Incremental_Learning_CVPR_2022_paper.pdf)][[code](https://github.com/IBM/constrained-FSCIL)]
 
