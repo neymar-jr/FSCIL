@@ -13,6 +13,8 @@
 
 - Few-Shot Class-Incremental Learning by Sampling Multi-Phase Tasks(**TPAMI22**)[[paper](https://arxiv.org/abs/2203.17030)][[code](https://github.com/zhoudw-zdw/TPAMI-Limit)] 
 
+- Few-shot class incremental learning leveraging self-supervised features(**CVPRW22**) [[paper](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/papers/Ahmad_Few-Shot_Class_Incremental_Learning_Leveraging_Self-Supervised_Features_CVPRW_2022_paper.pdf)] [[code](https://github.com/TouqeerAhmad/FeSSSS)]
+
 - Forward Compatible Few-Shot Class-Incremental Learning(**CVPR22**) [[paper](https://arxiv.org/abs/2203.06953)] [[code](https://github.com/zhoudw-zdw/CVPR22-Fact)]
 
 - MetaFSCIL: A Meta-Learning Approach for Few-Shot Class Incremental Learning (**CVPR22**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Chi_MetaFSCIL_A_Meta-Learning_Approach_for_Few-Shot_Class_Incremental_Learning_CVPR_2022_paper.pdf)][[code](https://github.com/kyoyachuan/metafscil)] 
