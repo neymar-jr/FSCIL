@@ -7,6 +7,8 @@
  
 - Memorizing Complementation Network for Few-Shot Class-Incremental Learning(**TIP23**)[[paper](https://arxiv.org/abs/2208.05610)]
 
+- Warping the Space: Weight Space Rotation for Class-Incremental Few-Shot Learning(**ICLR23**)[[paper](https://openreview.net/pdf?id=kPLzOfPfA2l)]
+
 - Neural Collapse Inspired Feature-Classifier Alignment for Few-Shot Class Incremental Learning(**ICLR23**)[[paper](https://arxiv.org/abs/2302.03004)][[code](https://github.com/NeuralCollapseApplications/FSCIL)]
 
  ### 2022 
